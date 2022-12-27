@@ -10,12 +10,10 @@ tags:
   - operating_model
 ---
 
-"A project is temporary in that it has a defined beginning and end in time, and therefore defined scope and resources. It is unique in that it is not a routine operation, but a specific set of operations designed to accomplish a singular goal."
+> "A project is temporary in that it has a defined beginning and end in time, and therefore defined scope and resources. It is unique in that it is not a routine operation, but a specific set of operations designed to accomplish a singular goal."
+**pmi.org**
 
-pmi.org
-
-What are Products and Projects?
-===============================
+# What are Products and Projects?
 
 For many years the primary approach to planning the development of IT solutions to business problems has been based on putting together project teams. This is a temporary team focused on building software which was funded for the duration of the build, justified by the production of a business case. This was usually supported by a waterfall SDLC and could often deliver pretty good results. This could work because in the past many systems were digitizing a manual business process which was well understood and slow to evolve.
 
@@ -39,15 +37,13 @@ Interestingly neither SAFE nor Less provide a simple definition of what a produc
 
 Sriram Narayan provides a useful side by side comparison of products and projects in [his blog post](https://martinfowler.com/articles/products-over-projects.html){:target="_blank"}.
 
-Why are Products Important?
-===========================
+# Why are Products Important?
 
 A product is how the organisation presents one or more *[Business Capabilities](business_capabilities.md){:target="_blank"}* to a group of its customers, in simple terms -- what is it selling?  Frequently, there is a specific pricing model associated with a product.
 
 In small organizations or startups there is often a simple mapping between what is sold and what is delivered by the engineering teams. When looking a larger or more mature organisations there is often a difference between how the sales and marketing people describe a product and a Product Catalogue and how this is delivered within the IT organization which has adopted a Scrum based agile approach, where a Product Owner defines what is delivered by the engineering team.
 
-A Product Approach
-==================
+# A Product Approach
 
 We need a way of bridging this gap in meaning, thinking about the business view of Products they:
 
@@ -78,8 +74,7 @@ The relationship between the business products to the technical products is an a
 
 When you have defined the product, it is valuable to put together a [*product development roadmap. *](roadmap.md){:target="_blank"}These are used for long term planning of a single specific product. Product development roadmaps are focused on releases, features and events.
 
-The Product Lifecycle
----------------------
+## The Product Lifecycle
 
 The product approach defines an approximate lifecycle that all products go through, to support this journey there should be a long-lived team which continues to deliver business value as the needs change.  
 
@@ -92,8 +87,7 @@ The key focus of the architect in these phases of the life cycle are:
 -   Maturity -- watching for unexpected changes in use that might impact quality attributes and ensuring that the applications that deliver the product are evergreened
 -   Decline -- controlled release of the IT resources
 
-Product Owner Role
-------------------
+## Product Owner Role
 
 The role of the product owner is critical in the Scrum based agile approaches as they provide direction for the engineering team. It is important that the architect works closely with the product owner, but their responsibilities are different:
 
@@ -107,24 +101,19 @@ The role of the product owner is critical in the Scrum based agile approaches as
 
 The architect plays an important part in delivering a successful product over the whole of it lifetime.
 
-References and Further Reading
-==============================
+# References and Further Reading
 
 **Here are some materials which may prove useful, if you would like to find out more about projects and products**
 
-**Useful resources on project management can be found here:\
-**<https://www.apm.org.uk/>
+Useful resources on project management can be found here:[https://www.apm.org.uk/"](https://www.apm.org.uk/){:target="_blank"}
 
-[Ken Schwaber -- "Agile Project Management with Scrum"](https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/)
+[Ken Schwaber -- "Agile Project Management with Scrum"](https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/){:target="_blank"}
 
-**Scrum.org\
-**<https://www.scrum.org/>  
+[Scrum.org](https://www.scrum.org/){:target="_blank"}
 
-**Agile Alliance\
-**<https://www.agilealliance.org/> 
+[Agile Alliance](https://www.agilealliance.org/){:target="_blank"}
 
-**SAFe**\
-<https://www.scaledagileframework.com/>  
+[SAFe](https://www.scaledagileframework.com/){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

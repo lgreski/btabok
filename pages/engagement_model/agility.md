@@ -10,11 +10,10 @@ tags:
   - digital_business
 ---
 
-# What is Agility
+> "Ways of planning and doing work in which it is understood that making changes as they are needed is an important part of the job" 
+**Cambridge Dictionary, definition of Agility.**
 
-*"ways of planning and doing work in which it is understood that making
-changes as they are needed is an important part of the job"* --
-Cambridge Dictionary, definition of Agility.
+# What is Agility
 
 Agility in terms of business or product development can be thought of as
 the ability to adapt quickly to change, and thus take advantage of the
@@ -360,7 +359,7 @@ Moving too quickly may lead to the organization resisting agile
 practices, and can result in disillusionment with the methods.
 
 A key factor in promoting agile practices to the organization is to gain
-the trust of important stakeholders. This can help to drive changes in
+the trust of important [stakeholders](stakeholders.md){:target="_blank"}. This can help to drive changes in
 culture and promote the positive results of agile practices. The use of
 agile practices can then begin to grow naturally into the culture over
 time.
@@ -389,13 +388,13 @@ given to legacy systems when developing agile practices.
 Agile practices rely on a closeness to the customer or sponsor to gain
 quick feedback about progress and to gain support for decisions. In some
 cases, the customer may have a reduced availability, perhaps due to
-other priorities, shortage of time or that the business culture is
+other priorities, shortage of time or that the [business culture](culture.md){:target="_blank"}  is
 unfamiliar with that way of working. This has a significant effect on
 agility since it will likely lead to the team making assumptions in the
 absence of the customer, which can in turn result in re-work later when
 these assumptions are shown to be incorrect. Another effect is the speed
 at which decisions can be taken, this is likely to reduce the
-productivity or velocity of the team.
+productivity or [velocity](velocity.md){:target="_blank"} of the team.
 
 One way to reduce the effect of this constraint, is to appoint an
 internal sponsor to the team who acts on behalf of the customer. The
@@ -432,7 +431,7 @@ are required to design a car model, the significant architecture
 decisions are often assessed and taken long before the architecture goes
 into production.
 
-Perhaps the most important part of working with an architecture is
+Perhaps the most important part of working with an [architecture](architecture_practice.md){:target="_blank"} is
 making the decisions which are key to the business and difficult to
 change after implementation has begun. This is where there is friction
 between agile methods and architecture. Agile methods aim to take
@@ -506,3 +505,7 @@ implementation.
 
 **Villanovau University**
 [Villanovau University](https://www.villanovau.com/resources/project-management/iron-triangle-project-management/){:target="_blank"}
+
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

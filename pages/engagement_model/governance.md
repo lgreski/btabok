@@ -10,17 +10,11 @@ tags:
   - operating_model
 ---
 
-# What is Governance
+> "Governance is a system that provides a framework for managing organizations. It identifies who can make decisions, who has the authority to act on behalf of the organization and who is accountable for how an organization and its people behave and perform. Governance enables the management team and the board to run organizations legally, ethically, sustainably, and successfully, for the benefit of stakeholders, including shareholders, staff, clients and customers, and for the good of wider society."
+**definition of Governance, Chartered Governance Institute UK and Ireland**
 
-*"Governance is a system that provides a framework for managing
-organizations. It identifies who can make decisions, who has the
-authority to act on behalf of the organization and who is accountable
-for how an organization and its people behave and perform.\
-Governance enables the management team and the board to run
-organizations legally, ethically, sustainably, and successfully, for the
-benefit of stakeholders, including shareholders, staff, clients and
-customers, and for the good of wider society."* **-- definition of
-Governance, Chartered Governance Institute UK and Ireland**
+
+# What is Governance
 
 Governance is an important function in many organizations and
 professions, architecture and architecture practices are
@@ -30,7 +24,7 @@ point out that it is a framework of structures and processes which allow
 the organization to operate according to a set of norms, values and
 policies.
 
-These norms, values and policies may be specific to the organization and
+These norms, values and policies may be specific to the organization and 
 to the industry sector the organization is involved in. For example,
 organizations in strongly regulated business sectors are also likely to
 have strong governance frameworks, since consequences of poor practices

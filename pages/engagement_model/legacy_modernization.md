@@ -12,10 +12,11 @@ tags:
   - operating_model
 ---
 
-# What is Legacy Modernization
+> "...the process of making a system, methods, etc. more modern and more
+suitable for use at the present time."
+**- definition of Modernization, Oxford Dictionary**
 
-"...the process of making a system, methods, etc. more modern and more
-suitable for use at the present time."* **- definition of Modernization, Oxford Dictionary**
+# What is Legacy Modernization
 
 All systems have a life cycle, starting with the inception and
 construction of the system, moving into the maintenance of the system
@@ -428,14 +429,9 @@ the new system, this may involve using time-consuming manual processes.
 
 # References and Further Reading
 
-**A Beginners Guide to Capex vs Opex, Software Advisory Service**
+**Use TIME to Engage the Business for Application and Product Portfolio Triage**
 
-<https://www.softwareadvisoryservice.com/en/whitepapers/a-beginners-guide-to-capex-vs-opex/>
-
-**Use TIME to Engage the Business for Application and Product Portfolio
-Triage**
-
-<https://www.gartner.com/en/documents/3905663/use-time-to-engage-the-business-for-application-and-prod>
+[https://www.gartner.com/en/documents/3905663/use-time-to-engage-the-business-for-application-and-prod](https://www.gartner.com/en/documents/3905663/use-time-to-engage-the-business-for-application-and-prod){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

@@ -17,9 +17,9 @@ topnav_dropdowns:
       folderitems:
         - title: Getting Started
           url: get_started_m.html
-      # - title: Manifesto
-      #   url: /XYZ.html
-        - title: Engagemente Model
+        - title: Manifesto
+          url: manifesto.html
+        - title: Engagement Model
           url: engagement_models_m.html
         - title: Competency Model
           url: competency_model_m.html
@@ -30,6 +30,10 @@ topnav_dropdowns:
         - title: Structured Canvases
           url: structured_canvases_m.html
         - title: Ethics and Principles
-          url: ethics_and_principles.html  
+          url: ethics_and_principles.html
+        - title: Dictionary
+          url: glossary.html
+        - title: Contributors
+          url: contributors.html               
 
-# Copyright 2022 IASA
+# Copyright 2022 IASA 

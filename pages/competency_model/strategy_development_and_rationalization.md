@@ -3,22 +3,20 @@ title: "Strategy Development and Rationalization"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: aim.html
+permalink: strategy_development_and_rationalization.html
 folder: competency_model
 summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
 tags: 
   - business_technology_strategy
 ---
 
-Description
-===========
+# Description
 
 The process of strategy development and rationalization defines how the business architect and IT architect work together. The objective is to produce the business direction and a model that will focus the activities of the organization. It defines the principles, standards, structure, and dynamics of the business and technical strategic direction. Strategy development includes the production of components required for an appropriate architecture strategy. This involves understanding how to evaluate a business problem and identify an appropriate technology solution, a key part of this is identifying, analyzing, and simulating market trends.
 
 Architects are expected to be familiar or experienced in the different ways of developing a strategy, an important area is the alignment of business strategy and the technology strategy.  The IT architect will need to be able to justify the architecture and describe the rationale behind it.
 
-Overview
-========
+# Overview
 
 The ability to understand how strategy is developed and rationalized is skill for architects.
 
@@ -39,8 +37,7 @@ Architects will also be expected to:
 -   Lead Line of Business/capability strategy development across all related projects
 -   Act as a focus for innovation and the application of new technology
 
-Proven Practices
-================
+# Proven Practices
 
 The proven practices involved include:
 
@@ -54,10 +51,9 @@ In order to deliver the above, there are some enabling practices which help:
 -   Strategic Thinking -- how to view the organization as a holistic entity an see how it can be changed over time.
 -   Innovation Management -- how to make best use of the opportunities offered by changing technology.
 
-Sub Component Skills
-====================
+# Sub Component Skills
 
-### **Strategic Management **
+## Strategic Management
 
 A field that deals with the major (intended and emergent) initiatives taken by executives on behalf of owners, involving utilization of resources, to enhance the performance of ﬁrms in their external environments. This involves the analysis of the internal and external environment, some of the commonly used tools in this area are described below.
 
@@ -85,32 +81,24 @@ Scenarios are developed and tested against the information captured in the SWOT.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** | Learner will be able to:
+| **CITA- Foundation** | Learner will be able to: |
+| :-: | :-: |
+| | -   Understand the purpose of strategic management
+| | -   Describe at least one of the analysis techniques
+| **CITA -- Associate** | Learner will be able to: |
+| :-: | :-: |
+| | -   Apply the analysis techniques to simple problem areas
+| | -   Identify and recommend which technique to use for any specific problem area
+| **CITA -- Specialist** | Learner will be able to: |
+| :-: | :-: |
+| | -   Explain how to use multiple techniques
+| | -   Apply a number of techniques to a scenario
+| **CITA -- Professional** | Learner will be able to: |
+| :-: | :-: |
+| | -   Introduce new techniques into an organisation
+| | -   Lead the application of strategic management with senior stakeholders to produce an organization level strategy
 
--   Understand the purpose of strategic management
--   Describe at least one of the analysis techniques
-
- |
-| **CITA -- Associate** | Learner will be able to:
-
--   Apply the analysis techniques to simple problem areas
--   Identify and recommend which technique to use for any specific problem area
-
- |
-| **CITA -- Specialist** | Learner will be able to:
-
--   Explain how to use multiple techniques
--   Apply a number of techniques to a scenario
-
- |
-| **CITA -- Professional** | Learner will be able to:
-
--   Introduce new techniques into an organisation
--   Lead the application of strategic management with senior stakeholders to produce an organization level strategy
-
- |
-
-### **Strategy Develoment**
+## Strategy Develoment
 
 Many organizations will produce an IT Strategy document or slide pack, the architect needs to be able to pull together the information and direction produced by the other sub-capabilities into a coherent whole. This will be aligned with the Enterprise Architecture and should drive it to a significant degree. The exact content will vary depending on the approach taken but typically there will be the following: a summary of the business strategy, an analysis of the current portfolio of systems and projects, a description of the target IT state from a process, information, data and technology business view, and a resourcing section.
 
@@ -126,33 +114,25 @@ The communication of the strategy also needs to be considered, as will only be u
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** | Learner will be able to:
+| **CITA- Foundation** | Learner will be able to: |
+| :-: | :-: |
+| | -   Define the importance of strategy
+| | -   Describe the approach taken in their organisation
+| **CITA -- Associate** | Learner will be able to: |
+| :-: | :-: |
+| | -   Contribute to activities which create the strategy
+| | -   Apply the strategy to projects they are involved in and describe how it has influenced decisions
+| :-: | :-: |
+| **CITA -- Specialist** | Learner will be able to: |
+| | -   Lead the creation of sections of the strategy in their specialty
+| | -   Recommend new techniques to the organisation within these sections
+| :-: | :-: |
+| **CITA -- Professional** | Learner will be able to: |
+| | -   Develop the approach to strategy development with senior stakeholders
+| | -   Lead the creation of multiple sections of the strategy, including negotiations with external parties
+| | -   Develop a communication plan for the strategy
 
--   Define the importance of strategy
--   Describe the approach taken in their organisation
-
- |
-| **CITA -- Associate** | Learner will be able to:
-
--   Contribute to activities which create the strategy
--   Apply the strategy to projects they are involved in and describe how it has influenced decisions
-
- |
-| **CITA -- Specialist** | Learner will be able to:
-
--   Lead the creation of sections of the strategy in their specialty
--   Recommend new techniques to the organisation within these sections
-
- |
-| **CITA -- Professional** | Learner will be able to:
-
--   Develop the approach to strategy development with senior stakeholders
--   Lead the creation of multiple sections of the strategy, including negotiations with external parties
--   Develop a communication plan for the strategy
-
- |
-
-### **Innovation Management**
+## Innovation Management
 
 Innovation is application of basic research or invention to explore the possibilities for new ways of conducting business and organizational processes. Businesses strive to develop an innovative culture which can be as a part of a single project team trying to do things differently. Recently the concept of disruptive innovation is generating lot of discussion this is recognizing that some technology innovations can radically change multiple markets and have very wide spread impacts, these are important areas for architects to focus on and understand how your organization can benefit.
 
@@ -181,44 +161,33 @@ The value of the innovation depends on which area of the business it can be appl
 -   Enhancement/extension of existing product features
 -   Completely new product
 
-When the architect promotes the adoption of an innovation it is absolutely essential that the risk is understood by the business, the IASA BTS course contains a risk taxonomy shown below:
-
-![Risk Taxonomy - BTS](media/sdar002.svg)
+When the architect promotes the adoption of an innovation it is absolutely essential that the risk is understood by the business, the IASA BTS course contains a risk taxonomy,
 
 The architect must be able to apply the risk taxonomy in the context of their organization and the area of the innovation. Every organization will each have an attitude to risk, which is dependent on the market sectors they are in and their place in them.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** | Learner will be able to:
+| **CITA- Foundation** | Learner will be able to: |
+| | -   Define the importance of innovation
+| | -   Actively participate in Innovation processes, such as brainstorming or Six Hats
+| :-: | :-: |
+| **CITA -- Associate** | Learner will be able to: |
+| | -   Apply the appropriate innovation tools for the area under investigation
+| | -   Describe the stages of an innovation process
+| | -   Understand the level of risk the organization will tolerate and the reasons behind this
+| | -   Identify areas for innovation within the area they work in
+| :-: | :-: |
+| **CITA -- Specialist** | Learner will be able to: |
+| | -   Lead innovation sessions using the appropriate tools
+| | -   Assess the appropriateness of adopting innovation based on the business value which can be gained.
+| | -   Understand the cumulative nature of the risk exposure due to innovation within the organisation
+| :-: | :-: |
+| **CITA -- Professional** | Learner will be able to: |
+| | -   Introduce an innovation adoption process into an organisation
+| | -   Apply strategy canvas maps and value mapping strategies to identify open market spaces where innovation can produce new products or services
+| | -   Identify and justify significant innovations which need C-Level approval
 
--   Define the importance of innovation
--   Actively participate in Innovation processes, such as brainstorming or Six Hats
-
- |
-| **CITA -- Associate** | Learner will be able to:
-
--   Apply the appropriate innovation tools for the area under investigation
--   Describe the stages of an innovation process
--   Understand the level of risk the organization will tolerate and the reasons behind this
--   Identify areas for innovation within the area they work in
-
- |
-| **CITA -- Specialist** | Learner will be able to:
-
--   Lead innovation sessions using the appropriate tools
--   Assess the appropriateness of adopting innovation based on the business value which can be gained.
--   Understand the cumulative nature of the risk exposure due to innovation within the organisation
-
- |
-| **CITA -- Professional** | Learner will be able to:
-
--   Introduce an innovation adoption process into an organisation
--   Apply strategy canvas maps and value mapping strategies to identify open market spaces where innovation can produce new products or services
--   Identify and justify significant innovations which need C-Level approval
-
- |
-
-### **Strategic Thinking**
+## Strategic Thinking
 
 Deep understanding of what is critical to the business in making appropriate decisions, anticipation of new trends in the industry by using deep understanding of business and industry trends, as described in Industry Analysis. Strategic thinking also includes the organizational attitude to risk and the how to recognize where the organization should sit with regards to the adoption of new technology and processes.
 
@@ -240,33 +209,23 @@ When looking at adoption from the perspective of the product, the Hyper-Cycle, p
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** | Learner will be able to:
+| **CITA- Foundation** | Learner will be able to: |
+| | -   Define the technology life cycles and have a broad understand of how they apply
+| | -   Understand the organisation's attitude to risk in general terms
+| :-: | :-: |
+| **CITA -- Associate** | Learner will be able to: |
+| | - Analyse specific areas to with regards to new technology adoption
+| | - Apply the organisational risk appetite to recommendations for new technology.
+| :-: | :-: |
+| **CITA -- Specialist** | Learner will be able to: |
+| | -   Monitor and evaluate significant areas to recommend when new technology should be adopted
+| | -   Apply the risk attitude of the organisation to justifications, balanced against the potential of missed opportunities
+| :-: | :-: |
+| **CITA -- Professional** | Learner will be able to: |
+| | -   Monitor the market for disruptive innovations and develop opportunities within the organisation
+| | -   Produce strategies which include the interaction of multiple new technologies and how they will impact the organisation
 
--   Define the technology life cycles and have a broad understand of how they apply
--   Understand the organisation's attitude to risk in general terms
-
- |
-| **CITA -- Associate** | Learner will be able to:
-
-Analyse specific areas to with regards to new technology adoption
-
-Apply the organisational risk appetite to recommendations for new technology.
-
- |
-| **CITA -- Specialist** | Learner will be able to:
-
--   Monitor and evaluate significant areas to recommend when new technology should be adopted
--   Apply the risk attitude of the organisation to justifications, balanced against the potential of missed opportunities
-
- |
-| **CITA -- Professional** | Learner will be able to:
-
--   Monitor the market for disruptive innovations and develop opportunities within the organisation
--   Produce strategies which include the interaction of multiple new technologies and how they will impact the organisation
-
- |
-
-### **Formation of IT Principles and Policies**
+## Formation of IT Principles and Policies
 
 The development of principles and policies will provide high level guidance to projects by taking the IT strategy to level where it can easily be seen to be applicable to the decisions which are made at project level. This is one of the activities which, if one correctly can have a very significant influence on what and how IT systems are developed.
 
@@ -286,7 +245,7 @@ Principles are expressed in simple language, usually in one or two sentences. A 
 
 Principles are an extremely useful part of the architectural definition process. They focus thought on the key areas of concern, ensure that a common understanding of goals and objectives is achieved, and ensure that this common understanding is documented in a way that stakeholders can understand.
 
-How Principles Are Used\
+How Principles Are Used
 Principles come with three associated elements.
 
 -   Rationales justify or explain the motivation for the principle, that is, why it has been adopted. Many rationales themselves are business drivers or other principles
@@ -311,34 +270,26 @@ The above list is not exhaustive; this is a technique which should be used where
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** | Learner will be able to:
+| **CITA- Foundation** | Learner will be able to: |
+| :-: | :-: |
+| | -   Understand how to use Principles and Policies
+| | -   Identify good principles
+| | -   Name the most important principles in the organisation
+| **CITA -- Associate** | Learner will be able to: |
+| :-: | :-: |
+| | -   Apply the principles and Policies on projects to make decisions
+| | -   Identify principles and policies within their area of expertise
+| **CITA -- Specialist** | Learner will be able to: |
+| :-: | :-: |
+| | -   Identify exceptions to principles and policies and justify them appropriately, based on the effect on business value
+| | -   Develop a full set of principles working with the experts across multiple areas
+| **CITA -- Professional** | Learner will be able to: |
+| :-: | :-: |
+| | -   Introduce the concept of IT principles and policies into an organisation
+| | -   Extend the areas covered by IT principles as the organisation changes
 
--   Understand how to use Principles and Policies
--   Identify good principles
--   Name the most important principles in the organisation
 
- |
-| **CITA -- Associate** | Learner will be able to:
-
--   Apply the principles and Policies on projects to make decisions
--   Identify principles and policies within their area of expertise
-
- |
-| **CITA -- Specialist** | Learner will be able to:
-
--   Identify exceptions to principles and policies and justify them appropriately, based on the effect on business value
--   Develop a full set of principles working with the experts across multiple areas
-
- |
-| **CITA -- Professional** | Learner will be able to:
-
--   Introduce the concept of IT principles and policies into an organisation
--   Extend the areas covered by IT principles as the organisation changes
-
- |
-
-Related Capabilities
-====================
+# Related Capabilities
 
 **Business Technology Strategy**
 
@@ -350,26 +301,24 @@ Related Capabilities
 -   Business Strategy
 -   Technology Strategy and Innovation
 
-Resources
-=========
+# Resources
 
-### **Books: **
+## Books:
 
 -   The Ten-Day MBA 4^th^ Edition by Steven A. Silbiger ISBN978-0-08-219957-7
 -   Management by Peter Drucker ISBN 978-0-06-125266-2
 -   Blue Ocean Strategy by Renée Mauborgne and W. Chan Kim ISBN 978-1-59-139619-2
 -   Strategy Safari by by Henry Mintzberg, Bruce W. Ahlstrand, Joseph Lampel ISBN 978-0-74-327057-1
 
-### **Blogs/Webcasts/News/Reference Resources:  **
+## Blogs/Webcasts/News/Reference Resources:
 
--   IASA ITABoK
+-   IASA BTABoK
 
-### **Certifications/Training: **
+## Certifications/Training:
 
 -   IASA Business Technology Strategy
 
-Author
-======
+# Author
 
-### **Chris Cooper-Bland**\
+## Chris Cooper-Bland
 *Group Head of Architecture -- Endava*

@@ -10,13 +10,12 @@ tags:
   - human_dynamics
 ---
 
-Description
-===========
+# Description
 
 The Architect demonstrates an understanding of the psychological dynamics of customer management and discusses business imperatives, modern techniques and tools for relationship management, industry engagement, contractual agreements, transparency and accountability, and related issues. Managing high-risk scenarios is also a demonstrated competence of the role.
 
-**The psychological dynamics of customer management**
------------------------------------------------------
+## The psychological dynamics of customer management
+
 
 Five personality dynamics prevail in relatively consistent but unequal *proportions*.  These recur sequentially for a given work process:
 
@@ -37,8 +36,7 @@ When there is a lack of recognition of these differences in people, there is oft
 
 A healthy relationship between the professional and client is one that includes intense interactions followed by respectful distancing, mutually high demands for quality, complementary but not overlapping visions, and the ability to engage in productive conflict.  The lone genius architect, or any individual professional, is a myth.  Excellence comes from an evolving chemistry among the principal participants.
 
-**Business imperatives**
-------------------------
+## Business imperatives
 
 The new and sustainable competitive edge resides in improving both staff connectivity (internal relations) and market connectivity (improved win ratio).  The most valuable currency we have is the emotional capital of relationships.  Human beings make decisions first for emotional reasons, second for rational reasons.  The effective architect is present, listens and expects to be surprised, preferring perspectives over being right.  Successful relationships are anchored by character and competence: trust earned through sincerely caring about others and being open.  Without it three problems occur: non-inclusion, the illusion of inclusion and the loudest get heard.
 
@@ -46,8 +44,7 @@ Customers want a consistent, connected, personalized, and efficient experience t
 
 Top technology priorities for business leaders all center on improving CX in order to retain, serve, upsell to existing clients and lure new clients away from the competition.  Business process and EA practices that focus on blending Design and System Thinking techniques develops a digital enterprise/business that is essential to success.
 
-**Modern techniques**
----------------------
+## Modern techniques
 
 There is a gap in the general approach to problem solving between design agencies and enterprise architects.  The former use Design Thinking practices, such as empathy and prototyping, while enterprise architects use deductive reasoning and quantitative analysis, or Systems Thinking.
 
@@ -162,8 +159,8 @@ Personality profiles and character taxonomy: DISC, Enneagram, Myers-Briggs
 
 Emotional Quotient
 
-**Tools for relationship management Industry engagement**
----------------------------------------------------------
+## Tools for relationship management Industry engagement
+
 
 -   SOW -- Deliverables, Simple is better, Highly detailed saves money and minimizes riskStrategic objectives documentBusiness use-case model and definition
 -   High-level tools suggested in traditional strategic analysis...
@@ -205,8 +202,7 @@ Emotional Quotient
 -   Master Service Agreement
 -   Intellectual Property
 
-**Tools for Contractual agreements**
-------------------------------------
+## Tools for Contractual agreements
 
 The assigned architect should be involved in the project planning and contract drafting and negotiation.
 
@@ -218,8 +214,7 @@ The assigned architect should be involved in the project planning and contract d
 
 Read the contract over the course of the project to stay abreast of how its contents can affect the design and other decisions.
 
-**Tools for Transparency and accountability**
----------------------------------------------
+## Tools for Transparency and accountability
 
 Managing company IT assets -- confidentiality
 
@@ -237,8 +232,7 @@ Resource Plan
 
 Conflict Management
 
-**Related issues**
-------------------
+## Related issues
 
 The enterprise architect is bound to meet resistance in escalating nonconformance to the steering committee.  However, she rarely has a really strong case to make the steering committee act in her favor especially when the solution has already been implemented by the project team and is working as intended in the production environment.  Neither compromise nor confrontation works well.  It is therefore of utmost importance for an enterprise architect to convincingly negotiate.  He needs to create a win-win situation for both parties rather than falling into the trap of argumentative discussions.  It is a real test to measure the enterprise architect's interpersonal skills.
 
@@ -252,8 +246,7 @@ Becoming the face of IT for the business; the go-to resource for all things wron
 
 Cultural and Specialty Diversity
 
-**Managing high-risk scenarios**
---------------------------------
+## Managing high-risk scenarios
 
 Defining key risk indicators helps enterprises achieve their goals, seize opportunities and seek greater return with less risk. It works at the intersection of business and IT and allows enterprises to manage and even capitalize on risk in the pursuit of their objectives.
 
@@ -261,22 +254,19 @@ Risks related to late project delivery, compliance, misalignment, obsolete IT ar
 
 Using COBIT and Val IT to mitigate risk; the link between risk and COBIT control objectives and Val IT key management practices
 
-Overview
-========
+# Overview
 
-### Why does an architect need this skill?
+**Why does an architect need this skill?**
 
-### Common tasks involved in this skill?
+**Common tasks involved in this skill?**
 
-### What is their ownership in this skill?
+**What is their ownership in this skill?**
 
-### Name an example of how an architect would use this in daily activities?
+**Name an example of how an architect would use this in daily activities?**
 
-Proven Practices
-================
+# Proven Practices
 
-**Describe why an architect should be involved in this skill at a corporate level**
------------------------------------------------------------------------------------
+## Describe why an architect should be involved in this skill at a corporate level
 
 The architect works with the internal marketing and sales teams, for example, and can advise them on data correlations, intelligence and systems related to those areas, acting in a consulting capacity.  Architects rarely interface with the external customers, even in software manufacturing firms; the field team (sales reps, engineers, etc.) manages that responsibility.  One exception would be consulting companies that provide architects either on an hourly basis for solutioning or as staff augmentation for a tactical project team.
 
@@ -303,191 +293,123 @@ Only animate (people) and social systems (corporations) can be said to be purpos
 
 *Systems or their parts are purposeful if, by their choices, they can produce (a) the same outcome in different ways in the same environment and (b) different outcomes in the same and different environments.*
 
-**Primary push back and/or challenges for architects**
-------------------------------------------------------
+## Primary push back and/or challenges for architects
 
 The way we've always done it is comfortable and contributed to our success so far so why change.
 
 How would a stakeholder engage an architect for assistance utilizing this skill?
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Stakeholder Relationship Management**
+## Stakeholder Relationship Management
 
 The coordination of relationships with and between key stakeholders, during the design, management and implementation of business change.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to name the various legal forms of a business
+| **CITA -- Associate** | -   Learner will be able to describe the differences between various legal forms
+| | -   Learner will be able to describe the impacts of each form from the view of the business owners
+| **CITA -- Specialist** | -   Learner will be able to describe the implications, and especially limitations, of an organization's current legal structure
+| | -   Learner will be able to describe how to book funds received from owners and funds paid to owners
+| **CITA -- Professional** | -   Learner will be able to describe the optimum legal structure for an endeavor, including scenarios in which spin-offs or subsidiaries might be beneficial
+| | -   Learner will know the circumstances under which competent legal and tax advice is required
 
--   Learner will be able to name the various legal forms of a business
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to describe the differences between various legal forms
--   Learner will be able to describe the impacts of each form from the view of the business owners
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to describe the implications, and especially limitations, of an organization's current legal structure
--   Learner will be able to describe how to book funds received from owners and funds paid to owners
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to describe the optimum legal structure for an endeavor, including scenarios in which spin-offs or subsidiaries might be beneficial
--   Learner will know the circumstances under which competent legal and tax advice is required
-
- |
-
-### **Selling and Sales Support**
+## Selling and Sales Support
 
 The identification of sales prospects and their qualification, the development of customer interest and the preparation (including managing the bid process), execution and monitoring of the sale of any IT or related product or service.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner can compute ROI and IRR for an investment
+| | -   Learner can identify costs and benefits for an investment, including intangible costs and benefits
+| | -   Learner can identify and describe the basic financial statements
+| | -   Learner can identify business events and how they affect various financial statements
+| **CITA -- Associate** | -   Learner can evaluate the business case for a proposed investment using ROI, IRR, or cost/benefit analysis
+| | -   Learner can determine whether a proposed investment is aligned with company goals and describe why or why not
+| | -   Learner can compute basic financial ratios
+| | -   Learner can interpret basic financial ratios and what they say about the health of a business
+| **CITA -- Specialist** | -   Learner is able to show the effects a potential investment might have on the basic financial ratios for a company
+| | -   Learner is able to interpret the viability of an investment in financial terms
+| | -   Learner is able measure and assess the performance of a process or function using financial measures, including structural performance ratios
+| | -   Learner can identify when a process is not performing from a financial perspective
+| **CITA -- Professional** | -   Learner routinely evaluates potential investments in terms of the effects they have on company health and performance
+| | -   Learner measures and monitors company performance
+| | -   Learner evaluates financing and funding options using financial analysis
+| | -   Learner can troubleshoot the financial performance of a process or business unit to determine the root causes of poor (or good) performance
 
--   Learner can compute ROI and IRR for an investment
--   Learner can identify costs and benefits for an investment, including intangible costs and benefits
--   Learner can identify and describe the basic financial statements
--   Learner can identify business events and how they affect various financial statements
-
- |
-| **CITA -- Associate** |
-
--   Learner can evaluate the business case for a proposed investment using ROI, IRR, or cost/benefit analysis
--   Learner can determine whether a proposed investment is aligned with company goals and describe why or why not
--   Learner can compute basic financial ratios
--   Learner can interpret basic financial ratios and what they say about the health of a business
-
- |
-| **CITA -- Specialist** |
-
--   Learner is able to show the effects a potential investment might have on the basic financial ratios for a company
--   Learner is able to interpret the viability of an investment in financial terms
--   Learner is able measure and assess the performance of a process or function using financial measures, including structural performance ratios
--   Learner can identify when a process is not performing from a financial perspective
-
- |
-| **CITA -- Professional** |
-
--   Learner routinely evaluates potential investments in terms of the effects they have on company health and performance
--   Learner measures and monitors company performance
--   Learner evaluates financing and funding options using financial analysis
--   Learner can troubleshoot the financial performance of a process or business unit to determine the root causes of poor (or good) performance
-
- |
-
-### **Account Management**
+## Account Management
 
 The coordination of marketing, advisory, selling and delivery activities to internal or external organizations to achieve satisfaction for the customer and an acceptable business return for the supplier.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner can name and describe the three fundamental flows
+| **CITA -- Associate** | -   Learner can identify the three flows in a case study or business
+| | -   Learner can describe when the flows intersect and why, and describe what that means
+| **CITA -- Specialist** | -   Learner can identify, describe and document each of the flows in their company
+| | -   Learner can describe how a project might affect one or more of the flows
+| | -   Learner can identify when a project has not considered a flow even though there is likely an effect on that flow
+| **CITA -- Professional** | -   Learner demonstrates deep understand of the three flows within the context of his or her company
+| | -   Learner can evaluate a potential investment in terms of the effects it might have on each of the flows
 
--   Learner can name and describe the three fundamental flows
-
- |
-| **CITA -- Associate** |
-
--   Learner can identify the three flows in a case study or business
--   Learner can describe when the flows intersect and why, and describe what that means
-
- |
-| **CITA -- Specialist** |
-
--   Learner can identify, describe and document each of the flows in their company
--   Learner can describe how a project might affect one or more of the flows
--   Learner can identify when a project has not considered a flow even though there is likely an effect on that flow
-
- |
-| **CITA -- Professional** |
-
--   Learner demonstrates deep understand of the three flows within the context of his or her company
--   Learner can evaluate a potential investment in terms of the effects it might have on each of the flows
-
- |
-
-### **Benefits Management**
+## Benefits Management
 
 Benefits Management is the process of monitoring for the emergence of anticipated benefits (typically specified as part of the business case for a project) and includes action to optimize the positive business impact of individual and combined benefits. Architects should continuously evaluate benefits -- financial and non-financial, immediate and long term, direct and indirect, resulting from architecture solutions as a direct indicator of the value of architecture. Benefits should be tracked, measured and reported. Deviations from the projected outcomes, positive or negative should be analyzed and implemented into architecture.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to describe common attributes of business and technology benefits
+| | -   Learner will be able to measure benefits related to cost savings
+| **CITA -- Associate** | -   Learner will be able to track direct business benefits arising from a technology solution
+| | -   Learner will be able to classify benefits and value additions
+| **CITA -- Specialist** | -   Learner will be able to identify business benefits that are aligned to the business KPIs
+| | -   Learner will be able to track benefits and compare actual versus planned benefits
+| | -   Learner will be able to analyze deviations from projected benefits
+| | -   Learner will be able to explain co-relation between architecture and business benefits
+| **CITA -- Professional** | -   Learner will be able to track benefits against enterprise KPIs
+| | -   Learner will be able to compare benefits of a solution with respect to industry benchmarks
+| | -   Learner will be able to measure direct and indirect benefits
+| | -   Learner will be able to perform benefit classification
+| | -   Learner will be able to define architecture action to address deviations in planned versus actual benefits
 
--   Learner will be able to describe common attributes of business and technology benefits
--   Learner will be able to measure benefits related to cost savings
+# Resources
 
- |
-| **CITA -- Associate** |
+## Articles/Books
 
--   Learner will be able to track direct business benefits arising from a technology solution
--   Learner will be able to classify benefits and value additions
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to identify business benefits that are aligned to the business KPIs
--   Learner will be able to track benefits and compare actual versus planned benefits
--   Learner will be able to analyze deviations from projected benefits
--   Learner will be able to explain co-relation between architecture and business benefits
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to track benefits against enterprise KPIs
--   Learner will be able to compare benefits of a solution with respect to industry benchmarks
--   Learner will be able to measure direct and indirect benefits
--   Learner will be able to perform benefit classification
--   Learner will be able to define architecture action to address deviations in planned versus actual benefits
-
- |
-
-Resources
-=========
-
-### **Articles/Books --**
-
-1.  [The E-Hospital Website Measure Architecture Approach: Integrating Internal and External Customers' Needs in Information Delivery Services](http://asiair.asia.edu.tw/bitstream/310904400/2061/1/08.pdf) / C. C. Chang / Asian Journal of Health and Information Sciences, Vol. 2, Nos. 1-4, pp. 116-131, 2007
-2.  [Human Dynamics](http://msdn.microsoft.com/en-us/library/bb402955.aspx) / Miriam Grace and Sandra Y. Jeffcoat / Skyscrapr, 2007
-3.  ["Diplomatic" Software: Customer Relations](http://msdn.microsoft.com/en-us/library/bb419210.aspx) / Henry Rosales / Skyscrapr, 2007
-4.  [The Customer: The Missing Link](http://msdn.microsoft.com/en-us/library/bb419207.aspx) / Richard F. Weldon, Jr. / Skyscrapr, 2007
-5.  [Conflict Management](http://msdn.microsoft.com/en-us/library/bb402956.aspx) / Othel Rolle / Skyscrapr, 2007
-6.  [The Speed Of Trust](http://www.franklincovey.com/tc/solutions/leadership-solutions/leading-at-the-speed-of-trust) / Stephen R. Covey / Free Press, 2006
-7.  [The EA Metamodel behind the Business Model Generation](http://blogs.msdn.com/b/nickmalik/archive/2012/08/22/the-ea-metamodel-behind-the-business-model-generation.aspx) / Nick Malik / Inside Architecture, 2012
-8.  [Is Enterprise Architecture accountable for improving customer experience?](http://blogs.msdn.com/b/nickmalik/archive/2012/10/02/is-enterprise-architecture-accountable-for-improving-customer-experience.aspx) / Nick Malik/Inside Architecture, 2012
+1.  The E-Hospital Website Measure Architecture Approach: Integrating Internal and External Customers' Needs in Information Delivery Services / C. C. Chang / Asian Journal of Health and Information Sciences, Vol. 2, Nos. 1-4, pp. 116-131, 2007
+2.  [Human Dynamics](http://msdn.microsoft.com/en-us/library/bb402955.aspx){:target="_blank"} / Miriam Grace and Sandra Y. Jeffcoat / Skyscrapr, 2007
+3.  ["Diplomatic" Software: Customer Relations](http://msdn.microsoft.com/en-us/library/bb419210.aspx){:target="_blank"} / Henry Rosales / Skyscrapr, 2007
+4.  [The Customer: The Missing Link](http://msdn.microsoft.com/en-us/library/bb419207.aspx){:target="_blank"} / Richard F. Weldon, Jr. / Skyscrapr, 2007
+5.  [Conflict Management](http://msdn.microsoft.com/en-us/library/bb402956.aspx){:target="_blank"} / Othel Rolle / Skyscrapr, 2007
+6.  [The Speed Of Trust](http://www.franklincovey.com/tc/solutions/leadership-solutions/leading-at-the-speed-of-trust){:target="_blank"} / Stephen R. Covey / Free Press, 2006
+7.  The EA Metamodel behind the Business Model Generation / Nick Malik / Inside Architecture, 2012
+8.  Is Enterprise Architecture accountable for improving customer experience? / Nick Malik/Inside Architecture, 2012
 9.  Enterprise Architecture at Work: Modelling, Communication and Analysis / Marc Lankhorst / Springer Heidelberg New York, 2013
 10. Architecture: The Story of Practice / Dana Cuff / MIT Press, 1992
 11. Collaborative Enterprise Architecture: Enriching EA with Lean, Agile, and Enterprise 2.0 practices / Stefan Bente, Uwe Bombosch, Shailendra Langade / Morgan Kaufmann, 2012
 12. Five Best Practices for Improving EA Communications / Anne Lapkin / Gartner, 2010
 13. Lean Software Development: An Agile Toolkit / Mary and Tom Poppendieck / Addison-Wesley Professional, 2003
-14. [Foundations of the 5 Dynamics Model and Assessment](http://5dynamicsblog.com/wp-content/uploads/2012/06/5DynamicsFoundationsWhitePaperA090911.pdf) / Mike Sturm and Dr. Peter Nelson / 5 Dynamics LLC, 2011
+14. Foundations of the 5 Dynamics Model and Assessment / Mike Sturm and Dr. Peter Nelson / 5 Dynamics LLC, 2011
 
-### **Blogs/Webcasts/News/Reference Sources --**
+## Blogs/Webcasts/News/Reference Sources
 
 1.  [Human Dynamics International](http://www.humandynamics.com/){:target="_blank"}
-2.  [Zachman International](http://www.zachman.com/ea-articles-reference/54-the-zachman-framework-evolution)
-3.  [Capability Maturity Model Integration (CMMI) Institute](http://cmmiinstitute.com/){:target="_blank"}
-4.  [The Enterprise Business Motivation Model](http://motivationmodel.com/wp/){:target="_blank"}
-5.  [Standards organization](http://en.wikipedia.org/wiki/Standards_organization#Regional_standards_organizations)
+2.  [Zachman International](http://www.zachman.com/ea-articles-reference/54-the-zachman-framework-evolution){:target="_blank"}
+3.  [Capability Maturity Model Integration (CMMI) Institute](https://cmmiinstitute.com/){:target="_blank"}
+4.  [The Enterprise Business Motivation Model](http://motivationmodel.com/ebmm/){:target="_blank"}
+5.  [Standards organization](http://en.wikipedia.org/wiki/Standards_organization#Regional_standards_organizations){:target="_blank"}
 6.  [Society for Industrial and Organizational Psychology (SIOP)](http://www.siop.org/){:target="_blank"}
 7.  [Systems thinking](http://en.wikipedia.org/wiki/Systems_thinking){:target="_blank"}
 8.  [The Fifth Discipline](http://en.wikipedia.org/wiki/The_Fifth_Discipline){:target="_blank"}
-9.  [Architecting Better Customer Experiences: The Nexus of EA and CX](https://www.softwareag.com/_sso/order_check.asp?pb=/corporate&r=5&cid=70120000000sFlo&tp=Webinars&ld=201403%5FWeb%5Fsite%5FWebinar%5FArchitecting+Better+Customer+Experiences%3A+The+Nexus+of+EA%2C+BPM+and+CX&ref=%2Fcorporate%2Fimages%2Fsec%5FArchitecting%5FBetter%5FCustomer%5FExperiences%5FThe%2520Nexus%5Fof%5FEA%5FBPM%5Fand%5FCX%5Ftcm16%2D119795%2Emp4&mtype=movie&w=1024&h=768&compID=tcm:16-119795){:target="_blank"}
 
-### **Training --**
+## Training
 
 1.  [Fierce, Inc.](http://www.fierceinc.com/){:target="_blank"}
 2.  [Situational Self Leadership](http://www.kenblanchard.com/Solutions/Situational-Leadership-Development/Situational-Self-Leadership){:target="_blank"}, The Ken Blanchard Companies
 3.  [Star Achievement Series](http://www.officedynamics.com/Services/CertificationCourses/TheStarAchievementSeries.aspx){:target="_blank"}, Office Dynamics International
 
-### **Certifications --**
+## Certifications 
 
 1.  Risk Management
     1.  [Certified Information Systems Auditor](http://www.isaca.org/Certification/CISA-Certified-Information-Systems-Auditor/Pages/default.aspx){:target="_blank"} (CISA), ISACA
@@ -497,9 +419,10 @@ Resources
     2.  [Certified Information Technology Architect](https://iasaglobal.org/){:target="_blank"} (CITA), IASA
     3.  [The Open Group Architecture Framework](https://www.opengroup.org/togaf9/cert/index.html){:target="_blank"} (TOGAF), The Open Group
 
-### **Glossary of terms --**
+## Glossary of terms 
 
-**Business model**\
+**Business model**
+
 *-- A static description of what a business must coordinate to meet a coherent set of value propositions.*
 
 **Value proposition**\
@@ -526,12 +449,11 @@ Resources
 **Revenue**\
 *-- The collection of revenues generated by the customer segments as they consume the value propositions.*
 
-Author
-======
+# Author
 
 ![richard vijay](media/r_vijay.jpg)
-
-### **Richard Vijay Consultant, Lead -- Jaguar**
+## Richard Vijay Consultant
+*Lead - Jaguar*
 
 Richard possesses expertise in implementing world class IT systems and Product Lifecycle Management(PLM) solutions to automotive and aerospace OEMs worldwide. He has over 10 years of experience working for well-known organizations such as Jaguar Land Rover UK, TATA Motors European Technology Centre, TATA Daewoo Commercial vehicles, TATA Motors, and Airbus. He is currently on assignments requiring specialized service management, leadership, business architecture, solutions architecture, analysis, and project management expertise.
 

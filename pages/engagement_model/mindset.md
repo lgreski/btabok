@@ -10,9 +10,8 @@ tags:
   - digital_employee
 ---
 
-“The mind is just like a muscle – the more you exercise it, the stronger it gets and the more it can expand”
-
-Idowu Koyenikan
+> "The mind is just like a muscle – the more you exercise it, the stronger it gets and the more it can expand."
+**Idowu Koyenikan**
 
 # What Is A Digital Mindset 
 
@@ -114,10 +113,10 @@ As discussed in [Investment Prioritization](investment_planning.md){:target="_b
 
 David Rock has done excellent work in understanding how stakeholders react to change and its personal impact. In the SCARF assessment method, the team can understand how digital changes affect a stakeholder or stakeholder community. SCARF stands for Status, Certainty, Autonomy, Relatedness and Fairness. It can be used with the provided scarf assessment card to assess the perceived impact to a particular stakeholder group.  
 
-![image001](media/mindset003.png)_SCARF Impact_ 
+![image001](media/mindset003.png)
+_SCARF Impact_ 
 
 ![image001](media/mindset004.png)
-
 _SCARF Assessment_
 
 Context: Enterprise Transformation 

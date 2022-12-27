@@ -8,7 +8,7 @@ This document will focus on the adoption of the BTABoK Competency Model. There a
 
 ## Architecture Practice Size
 
-One of the most impactful elements of an architecture practice is its size. The size impacts almost all elements of the practice, competencies, and capabilities. For the purpose of the BTABoK, a small architecture practice is one with fewer than 25 architects, a medium practice is between 25-100 architects, and a large practice is one with 100+ architects. This distinction is not perfect, but it helps to organize policies and procedures. 
+One of the most impactful elements of an architecture practice is its size. The size impacts almost all elements of the practice, competencies, and capabilities. For the purpose of the BTABoK, a small architecture practice is one with fewer than 25 architects, a medium practice is between 25-100 architects, and a large practice is one with 100+ architects. This distinction is not perfect, but it helps to organize policies and procedures.
 
 # The Competency Model
 
@@ -156,8 +156,6 @@ The Iasa Mentoring Method was designed based on similar programs used by the [Am
 ## Growing Competencies
 
 The ultimate goal of the competency model is helping to ensure that individual architects are prepared to do the job at the correct level and are able to grow their competencies. However as each of the pillars has numerous competencies and architects often grow different competencies at different rates, the BTABoK uses a total average for the pillar to determine the individuals overall professional level. 
-
-
 
 **THE FOLLOWING NUMBERS ARE FOR DEMONSTRATION ONLY. A FULL VERSION WILL BE AVAILABLE SOON**
 

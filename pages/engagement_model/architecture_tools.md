@@ -10,9 +10,8 @@ tags:
   - operating_model
 ---
 
-"A fool with a tool is still a fool."
-
-John Doe
+> "A fool with a tool is still a fool."
+**John Doe**
 
 Architecture tools support the delivery and development of the architecture practice through automated and manual means. An architecture tool provides either a spot solution or a comprehensive solution in delivery of a set of architecture task(s).
 
@@ -20,13 +19,12 @@ The industry has many architecture tools available in the marketplace. Each of t
 
 Engagement Principle: The tool of choice should support an engagement model for architects first. Many tools are simply IT management tools using the word architecture.
 
-Overview
---------
+## Overview
+
 
 Architecture tools are the techniques and devices architects use to uncover or design the strategy and structure of a system as well as its form. True architecture tools are complex and no tool on the marketplace covers all of the essential elements.  
 
-Tool Capabilities and the BTABoK
---------------------------------
+## Tool Capabilities and the BTABoK
 
 How do we cover the vast touchpoints of an architecture tool without covering all technology tools? Think of each of the BTABoK topic areas and imagine how a tool would support it. We have tools for design. We have tools for [governance](governance.md){:target="_blank"}, tools for product and project planning, [roadmapping](roadmap.md){:target="_blank"} and [stakeholder](stakeholders.md){:target="_blank"} management. Soon we have a tool that covers all aspects of business and technology strategy and execution.
 
@@ -55,12 +53,11 @@ Cards, [Canvases](../structured_canvases/structured_canvases_m.md){:target="_bla
 
 The BTABoK provides dozens of cards, canvases, [viewpoints](views.md){:target="_blank"} and document templates to aid is specific architecture problem solving. Each of these whether automated or printed provides a specific tool for a specific area of application. The goal is not to use all of these tools for any effort but to learn their application and study their use to be able to use as a particular problem set arises.
 
-### A Fool with a Tool
+## A Fool with a Tool
 
 No matter how great the tool, the team skills will always be more important. The tools can only provide a certain amount of support for the activities of the architecture team.
 
-Architecture Tool Selection
----------------------------
+## Architecture Tool Selection
 
 The process of architecture tool selection requires the team coordinate and understand its current engagement model needs and select the most important elements to provide support.
 
@@ -70,7 +67,7 @@ The process of architecture tool selection requires the team coordinate and unde
 
 ![image001](media/tools001.png)
 
-### Using the Decision Record to Select
+## Using the Decision Record to Select
 
 The BTABoK Decision Record Card is an excellent tool to compare and contrast different architecture tools on the marketplace.
 
@@ -89,20 +86,19 @@ Additional elements to consider in tool evaluation are more related to the metho
 | Dashboards and Reporting | How easy does the tool support reporting, dashboarding, rollup or other methods for showing progress and demonstrating the information within? | Along with collaboration reporting and dashboarding need to be as flexible as possible to allow organizations to understand the information in the tool. Be sure that these don't drastically impact cost or flexibility of the tool. |
 | Security | What security protocols and standards can be supported? How private is the data? | Much of the information in an architecture tool is very sensitive and possibly damaging to a company if it is lost or stolen. Ensure proper levels of security are available for intended use. |
 
-References
-==========
+# References
 
-<https://sparxsystems.com/enterprise_architect_user_guide/14.0/guidebooks/ea_architecture_repository.html>
+[https://sparxsystems.com/enterprise_architect_user_guide/14.0/guidebooks/ea_architecture_repository.html](https://sparxsystems.com/enterprise_architect_user_guide/14.0/guidebooks/ea_architecture_repository.html){:target="_blank"}
 
-<https://pubs.opengroup.org/architecture/togaf92-doc/arch>
+[https://pubs.opengroup.org/architecture/togaf92-doc/arch](https://pubs.opengroup.org/architecture/togaf92-doc/arch){:target="_blank"}
 
-<https://www.sciencedirect.com/science/article/pii/B9780124199842000045>
+[https://www.sciencedirect.com/science/article/pii/B9780124199842000045](https://www.sciencedirect.com/science/article/pii/B9780124199842000045){:target="_blank"}
 
-<https://bizzdesign.com/blog/5-top-tips-for-organizing-your-architecture-repository/>
+[https://bizzdesign.com/blog/5-top-tips-for-organizing-your-architecture-repository/](https://bizzdesign.com/blog/5-top-tips-for-organizing-your-architecture-repository/){:target="_blank"}
 
-<https://docs.aws.amazon.com/whitepapers/latest/establishing-enterprise-architecture/enterprise-architecture-repository.html>
+[https://docs.aws.amazon.com/whitepapers/latest/establishing-enterprise-architecture/enterprise-architecture-repository.html](https://docs.aws.amazon.com/whitepapers/latest/establishing-enterprise-architecture/enterprise-architecture-repository.html){:target="_blank"}
 
-<https://www.academia.edu/6549603/Enterprise_Architecture_Tool_Selection_Guide>
+[https://www.academia.edu/6549603/Enterprise_Architecture_Tool_Selection_Guide](https://www.academia.edu/6549603/Enterprise_Architecture_Tool_Selection_Guide){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

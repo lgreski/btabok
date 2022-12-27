@@ -10,12 +10,8 @@ tags:
   - operating_model
 ---
 
-> “All architecture is design, but not all design is architecture.
-> Architecture represents the significant design decisions that shape the
-> form and function of a system, where ‘significant’ is measured by the
-> cost of change.”
-
-*Grady Booch*
+> "All architecture is design, but not all design is architecture. Architecture represents the significant design decisions that shape the form and function of a system, where 'significant' is measured by the cost of change."
+**Grady Booch**
 
 # Introduction
 
@@ -61,18 +57,7 @@ artifacts and are balanced in their response to stimuli.
 Jack Mostow suggests that the purpose of design is to create a solution
 that:
 
-> “Satisfies a given purpose 
-> 
-> Conforms to limitations of the target medium 
-> 
-> Meets implicit or explicit requirements on performance and resource
-> usage 
-> 
-> Satisfies implicit or explicit design criteria on the form of the
-> artifact 
-> 
-> Satisfies restrictions on the design process itself, such as its length
-> or cost, or the tools available for doing the design”
+> "Satisfies a given purpose Conforms to limitations of the target medium Meets implicit or explicit requirements on performance and resource usage Satisfies implicit or explicit design criteria on the form of the artifact Satisfies restrictions on the design process itself, such as its length or cost, or the tools available for doing the design"
 
 These goals are very often in conflict, giving the architect a complex series of tradeoffs to optimize. Designing anything is almost always an optimization problem but is especially true in software-intensive systems.
 
@@ -123,8 +108,7 @@ less capable options
 
 ![image001](media/design002.png) 
 
-> *Figure 2 Set-based vs point-based design -
-> https://www.scaledagileframework.com/set-based-design/*
+Figure 2 Set-based vs point-based design - https://www.scaledagileframework.com/set-based-design
 
 ## YAGNI – You Aren’t Going to Need It
 
@@ -144,18 +128,15 @@ Every design problem, set of requirements and principles serves to extend or lim
 requirements and options. Then narrow down to what is needed via a set of views and viewpoints, most specifically the context view. Each option considered for the solution will likely require a decision record or decision cascade to demonstrate it is actually needed and why the final decision was made.
 
 ![image001](media/design003.png) 
-
-> *Figure 3 Architecture Landscape 1*
+Figure 3 Architecture Landscape 1
 
 ![image001](media/design004.png) 
-
-> *Figure 4 Architecture Landscape 2*
+Figure 4 Architecture Landscape 2
 
 ![image001](media/design005.png) 
+Figure 5 Architecture Landscape 3
 
-> *Figure 5 Architecture Landscape 3*
-
-### Options Come From Breadth and Depth
+## Options Come From Breadth and Depth
 
 The options to meet a requirement come from 4 primary areas which represent the 
 
@@ -169,9 +150,9 @@ Figure 6 Ensuring Design Matches Objectives
 
 ## Design For Structural Concerns
 
-In bridge design, the nature of the crossing, and the length of the span in particular, have the most influence on the resulting design. Together, the different aspects of the crossing form the environment or [context ](scope_context.md) for the bridge. These will impact all aspects of the design process, much like corporate or company culture, location and business type will inform all aspects of architecture decision making. As the span lengthens, the types of bridges you can build become more constrained, to the point that for spans over 1000 feet, you basically have three options.
+In bridge design, the nature of the crossing, and the length of the span in particular, have the most influence on the resulting design. Together, the different aspects of the crossing form the environment or [context ](scope_context.md){:target="_blank"}for the bridge. These will impact all aspects of the design process, much like corporate or company culture, location and business type will inform all aspects of architecture decision making. As the span lengthens, the types of bridges you can build become more constrained, to the point that for spans over 1000 feet, you basically have three options.
 
-So it is with technology systems. The [context ](scope_context.md) in which the system will live has as much influence to the design as the functional, quality attribute and constraint requirements. 
+So it is with technology systems. The [context ](scope_context.md){:target="_blank"}in which the system will live has as much influence to the design as the functional, quality attribute and constraint requirements. 
 
 The main influences over the design are:
 
@@ -317,58 +298,36 @@ The ever-increasing complexity of software, the difficulty of the tasks it is be
 
 # References
 
-**Booch, Grady, “On Design”, *Handbook of Software Architecture:
-Blog***,   
-http://handbookofsoftwarearchitecture.com
+**Booch, Grady, “On Design”, *Handbook of Software Architecture: Blog***, [http://handbookofsoftwarearchitecture.com](http://handbookofsoftwarearchitecture.com){:target="_blank"}
 
-**Boasson, Maarten, The Artistry of Software Architecture. *IEEE
-Software, November, 1995, 12*(6), 13-16.**
+**Boasson, Maarten, The Artistry of Software Architecture. *IEEE Software, November, 1995, 12*(6), 13-16.**
 
-** Mostow, Jack, Towards Better Models of the Design Process. *AI
-Magazine, *1985, *6*(1)**
+**Mostow, Jack, Towards Better Models of the Design Process. AI Magazine, 1985, 6(1)**
 
-**Petroski, Henry *To Engineering is Human: The Role of Failure in
-Design, *St. Martin’s Press, New York, New York: 1985.**
+**Petroski, Henry *To Engineering is Human: The Role of Failure in Design, *St. Martin’s Press, New York, New York: 1985.**
 
-**Whitmire, Scott A., *Engineer Your Software!*, Synthesis Lectures on
-Algorithms and Software in Engineering, Andreas Spanias (Series Ed.),
-Morgan & Claypool, San Rafael, CA: 2021.**
+**Whitmire, Scott A., *Engineer Your Software!*, Synthesis Lectures on Algorithms and Software in Engineering, Andreas Spanias (Series Ed.), Morgan & Claypool, San Rafael, CA: 2021.**
 
-**DeMarco, Tom, *Controlling Software Projects.* Yourdon Press ,
-Englewood Cliffs, New Jersey:1982.**
+**DeMarco, Tom, *Controlling Software Projects.* Yourdon Press ,Englewood Cliffs, New Jersey:1982.**
 
-**Whitmire, Scott A., *Object Oriented Design Measurement.* John Wiley &
-Sons, New York, New York: 1997.**
+**Whitmire, Scott A., *Object Oriented Design Measurement.* John Wiley & Sons, New York, New York: 1997.**
 
-**Yuan, George, A Depth-First Process Model for Object-Oriented
-Development with Improved OOA/OOD Notations. *Report on Object-Oriented
-Analysis and Design, 2*(1), May/June, 1995, 23-37.**
+**Yuan, George, A Depth-First Process Model for Object-Oriented Development with Improved OOA/OOD Notations. *Report on Object-Oriented Analysis and Design, 2*(1), May/June, 1995, 23-37.**
 
-**Alexander, Chrostopher, Ishikawa, Sara, Silverstein, MMurray,
-Jacobson, Max, Fiksdahl-King, Ingrid, & Angel, Shlomo, *A Pattern
-Language: Towns, Bulidings, Construction.* Oxford University Press, New
-York, New York: 1977.**
+**Alexander, Chrostopher, Ishikawa, Sara, Silverstein, MMurray, Jacobson, Max, Fiksdahl-King, Ingrid, & Angel, Shlomo, *A Pattern Language: Towns, Bulidings, Construction.* Oxford University Press, New York, New York: 1977.**
 
-**Buschmann, Frank, Meunier, Regine, Rohnert, Hans, Sommerlad, Peter, &
-Stal, Michael, *Pattern-Oriented Software Architecture: A System of
-Patterns* (Vol. 1), John Wiley & Sons, New York, New York: 1996.**
+**Buschmann, Frank, Meunier, Regine, Rohnert, Hans, Sommerlad, Peter, & Stal, Michael, *Pattern-Oriented Software Architecture: A System of Patterns* (Vol. 1), John Wiley & Sons, New York, New York: 1996.**
 
-**Gamma, Erich, Helm, Richard, Johnson, Ralph, & Vlissides, John
-, *Design Patterns: Elements of Reusuable Object-Oriented
-Software,* Addison-Wesley, Reading, Massachusetts: 1995.**
+**Gamma, Erich, Helm, Richard, Johnson, Ralph, & Vlissides, John , *Design Patterns: Elements of Reusuable Object-Oriented Software,* Addison-Wesley, Reading, Massachusetts: 1995.**
 
-**Martin, Robert C., *Clean Architecture: A Craftsman’s Guide to
-Software Structure and Design.* Prentice Hall, New York, New York:
-2018.**
+**Martin, Robert C., *Clean Architecture: A Craftsman’s Guide to Software Structure and Design.* Prentice Hall, New York, New York: 2018.**
 
-**Acaroglu, Leyla, “Tools for Systems Thinkers: The 6 Fundamental
-Concepts of Systems Thinking”, Disruptive Design Blog,**   
-https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a
+**Acaroglu, Leyla, “Tools for Systems Thinkers: The 6 Fundamental Concepts of Systems Thinking”, Disruptive Design Blog,**   
+[https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a){:target="_blank"}
 
 **Brown, Tim, Design Thinking. Harvard Business Review, June 2008.**
 
-**Petroski, Henry, *Invention by Design: How Engineers Get from Thought
-to Thing*, Harvard University Press, Camebridge, MA: 1996.**
+**Petroski, Henry, *Invention by Design: How Engineers Get from Thought to Thing*, Harvard University Press, Camebridge, MA: 1996.** 
 
 ![image001](media/by-nc.png)
 
